@@ -1,0 +1,5 @@
+# Google credentials and audit outputs stay off GitHub
+*.json
+!.claude/**/*.json
+google-ads-weekly-audit-*.md
+reports/
